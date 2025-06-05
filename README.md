@@ -24,6 +24,20 @@ by Hyundong Jin, Sicheol Sung, Shinwoo Park, SeungYeop Baik and Yo-Sub Han
 > models. Our code is available at [our public
 > repository](https://github.com/jindong22/TrapDoc).
 
+## Links
+
+- [Paper](https://arxiv.org/abs/2506.00089)
+
 ## Citation
 
-Not avilable.
+```
+@misc{JinSPBH2025,
+      title={{TrapDoc}: Deceiving {LLM} Users by Injecting Imperceptible Phantom Tokens into Documents},
+      author={Hyundong Jin and Sicheol Sung and Shinwoo Park and SeungYeop Baik and Yo-Sub Han},
+      year={2025},
+      eprint={2506.00089},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2506.00089},
+}
+```
