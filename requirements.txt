@@ -1,0 +1,12 @@
+datasets
+pymupdf
+arxiv
+tqdm
+evalplus
+openai
+pikepdf
+negate
+nltk
+rouge
+bert_score
+transformers
