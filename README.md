@@ -121,7 +121,7 @@ python3 phantom_token_injection.py --target-path ./pdf_data --text-to-insert-pat
 Executes each task by feeding the model the PDF file together with a task-specific prompt. The OpenAI API supports uploading the entire file as input.
 
 ```bash
-1python3 llm_inference.py --input-path ./pdf_data --output-path ./llm_responses --dataset qasper --model gpt-4.1
+python3 llm_inference.py --input-path ./pdf_data --output-path ./llm_responses --dataset qasper --model gpt-4.1
 ```
 
 ### 7. Evaluation
