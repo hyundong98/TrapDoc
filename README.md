@@ -10,9 +10,9 @@
   <a href="https://github.com/jindong22/TrapDoc/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/jindong22/TrapDoc?color=orange" alt="GitHub contributors">
   </a>
-  <a href="https://scholar.google.com/scholar?cites=18173623905101211439">
+  <!-- <a href="https://scholar.google.com/scholar?cites=18173623905101211439">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/d13403a1fa09061cbf26a59eac310642b30e3440?fields=citationCount&query=$.citationCount&label=citations" alt="Citation">
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
