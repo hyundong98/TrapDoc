@@ -88,7 +88,7 @@ If you want to evaluate a different dataset or model, you'll need to adjust the 
 ### 1. Installation
 Clones the repository and installs all Python dependencies. We use Python 3.10.
 ```bash
-git clone https://github.com/jindong22/TrapDoc.git
+git clone https://github.com/hyundong98/TrapDoc.git
 cd TrapDoc
 pip install -r requirements.txt
 ```
