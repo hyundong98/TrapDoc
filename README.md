@@ -43,7 +43,7 @@ The framework can insert an arbitrary amount of phantom tokens into any PDF file
 
 3. **Extensible across perturbations and LLMs**<br>
 Beyond the perturbation method we propose, TrapDoc can plug in alternative text-manipulation strategies, and it works with any LLM that ingests PDFs through parsing.
- 
+
 ## 📰 News
 * TrapDoc has been accepted to EMNLP 2025 Findings! (Aug 21, 2025)
 * We updated our README.md files for detailed execution guidelines. (Jun 11, 2025)
